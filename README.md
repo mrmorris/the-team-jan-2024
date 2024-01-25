@@ -10,8 +10,3 @@ This is a fantastic team, wow.
 * Naughty Robot Man
 * Honest Abe
 * <--- Next team member here!
-
----
-
-Formed Jan 2024
->>>>>>> main
