@@ -7,6 +7,7 @@ This is a fantastic team, wow.
 ## Members
 
 * [Ryan Morris](./ryan-morris.md)
+* [Brian Steadman](./Brian-steadman.md)
 * <--- Next team member here!
 
 ---
