@@ -7,8 +7,12 @@ This is a fantastic team, wow.
 ## Members
 
 * [Ryan Morris](./ryan-morris.md)
+<<<<<<< HEAD
+* [Kevin Fahy](./kfahy.md)
+=======
 * Naughty Robot Man
 * Honest Abe
+>>>>>>> 531379a628b8491f7263d61fd46ae0c3ccfc662c
 * <--- Next team member here!
 
 ---
