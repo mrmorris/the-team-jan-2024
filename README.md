@@ -8,6 +8,7 @@ This is a fantastic team, wow.
 
 * [Ryan Morris](./ryan-morris.md)
 * Naughty Robot Man
+* Honest Abe
 * <--- Next team member here!
 
 ---
