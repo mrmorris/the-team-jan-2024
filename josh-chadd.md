@@ -5,4 +5,6 @@
 * Fries
 
 ## Sauces
-* Fry saunce
+* Fry sauce
+* Blueberry ketchup
+* Club sauce
